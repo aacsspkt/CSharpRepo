@@ -1,0 +1,3 @@
+[submodule "VehicleManagement"]
+	path = VehicleManagement
+	url = git@github.com:aacsspkt/VehicleManagement.git
