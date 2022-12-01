@@ -4,3 +4,6 @@
 [submodule "EmployeeManagementSystem"]
 	path = EmployeeManagementSystem
 	url = git@github.com:aacsspkt/EmployeeManagementSystem.git
+[submodule "Zebec-SDK-Dotnet"]
+	path = Zebec-SDK-Dotnet
+	url = git@github.com:aacsspkt/Zebec-SDK-Dotnet.git
