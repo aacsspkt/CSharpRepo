@@ -1,3 +1,6 @@
 [submodule "VehicleManagement"]
 	path = VehicleManagement
 	url = git@github.com:aacsspkt/VehicleManagement.git
+[submodule "EmployeeManagementSystem"]
+	path = EmployeeManagementSystem
+	url = git@github.com:aacsspkt/EmployeeManagementSystem.git
